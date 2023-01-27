@@ -6,13 +6,13 @@ draft: false
 
 # Wraps
 
-So einfach kann es gehen
-
 ## Zutaten
 
 * 4 EL Mehl
-* Wasser
+* 4 EL Wasser
 * etwas Backpulver
+* etwas Salz
+* Gewürze nach Wahl
 
 ## Zubereitung
 
