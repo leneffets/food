@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mercimek Corbasi"
 date: 2022-09-19T14:00:00+02:00
-draft: false
 ---
 
 # Mercimek Corbasi (türkische Linsensuppe)

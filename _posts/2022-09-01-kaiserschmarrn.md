@@ -17,7 +17,6 @@ Einfach und köstlich
 * 40 g Zucker für das Eiweiß
 
 
-
 * 2 Esslöffel Zucker für die Pfanne
 * 1 Stück(e) Butter
 * 1 Prise, Msp. Salz
