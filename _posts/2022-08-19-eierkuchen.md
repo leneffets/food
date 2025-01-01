@@ -1,7 +1,8 @@
 ---
 title: "Eierkuchen"
 date: 2022-08-19T17:45:35+02:00
-draft: false
+layout: post
+
 ---
 
 # Eierkuchen Basics
