@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wraps (JO)"
+title: "Linsenwraps"
 date: 2022-02-19T14:40:00+02:00
 ---
 
