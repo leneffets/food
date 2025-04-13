@@ -12,7 +12,7 @@ So einfach kann es gehen
 ## Zutaten
 
 * 1 Ei
-* 100g Milch
+* 100g Milch oder Alternative
 * 100g Mehl
 * 30-60g Sprudelwasser
 * Prise Zucker
